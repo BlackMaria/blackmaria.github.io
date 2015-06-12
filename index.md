@@ -8,7 +8,7 @@ tagline: Supporting tagline
 
 Why are smart people so dumb?
 
-I have lots of things to say about the autistic spectrum, the side effects of highly functional brain, and social handicaps that plague so much of the high tech industry.  These things are often compounded by what I call _the smartest kid in teh class syndrom_.
+I have lots of things to say about the autistic spectrum, the side effects of highly functional brains, and social handicaps that plague so much of the high tech industry.  These things are often compounded by what I call _the smartest kid in the class syndrom_.
 
 In my next couple posts I will give some background in my experiances.
 
